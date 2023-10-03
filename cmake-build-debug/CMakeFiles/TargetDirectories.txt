@@ -1,0 +1,3 @@
+C:/Users/imcve/Desktop/uag/unidad 2/Abstraccion/cmake-build-debug/CMakeFiles/Abstraccion.dir
+C:/Users/imcve/Desktop/uag/unidad 2/Abstraccion/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/imcve/Desktop/uag/unidad 2/Abstraccion/cmake-build-debug/CMakeFiles/rebuild_cache.dir
